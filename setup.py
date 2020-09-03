@@ -1,7 +1,7 @@
 from setuptools import find_packages, setup
 
 setup(
-    name="src",
+    name="",
     packages=find_packages(),
     version="1.0.0",
     description="CADEX - Explaining Deep Learning Models with Constrained Adversarial Examples",
